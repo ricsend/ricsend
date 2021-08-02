@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ### Hi there 👋
 
 I'm Ricardo,
