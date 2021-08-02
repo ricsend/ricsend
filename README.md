@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ricsend/ricsend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
+I'm Ricardo,
+
 [![ricsend's github stats](https://github-readme-stats.vercel.app/api?username=ricsend&show_icons=true&theme=default)](https://github.com/ricsend/)
+
+[💼 LinkedIn ](https://linkedin.com/in/ricsend) 
+
+[🐦 Twitter ](https://twitter.com/ricsend)
+
+[📬 Email ](mailto:ricardo@fpf.br)
+
